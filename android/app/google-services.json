@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941523756410",
+    "project_id": "projetoflutter-b6d96",
+    "storage_bucket": "projetoflutter-b6d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941523756410:android:cd8717aa09f94148c8a2c3",
+        "android_client_info": {
+          "package_name": "teste.shiroma_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941523756410-a4qtn9shdfu1kimt9m5f0metn6fj0li2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDek8Csg9V7lap1JaRap6Xut2RQjFf6L6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941523756410-a4qtn9shdfu1kimt9m5f0metn6fj0li2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

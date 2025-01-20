@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\pedro\\AndroidStudioProjects\\shiroma_flutter_app\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-2\\files-2.1\\770dcbb25819cb63c4db60613f9ec252\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidStudioProjects\\shiroma_flutter_app\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-2\\files-2.1\\770dcbb25819cb63c4db60613f9ec252\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidStudioProjects\\shiroma_flutter_app\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-2\\files-2.1\\770dcbb25819cb63c4db60613f9ec252\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\pedro\\AndroidStudioProjects\\shiroma_flutter_app\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\pedro\\.gradle\\caches\\transforms-2\\files-2.1\\770dcbb25819cb63c4db60613f9ec252\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]
